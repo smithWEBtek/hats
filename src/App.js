@@ -1,4 +1,4 @@
-import logo from './bjs.jpeg';
+import logo from './hat.svg';
 import './App.css';
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h2>
-          Hats found on the side of the road dot com
+          Hats found on the side of the road (dot com)
         </h2>
       </header>
     </div>
