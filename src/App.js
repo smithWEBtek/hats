@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <img src={highway} className="App-highway" alt="highway" />
       <img src={hat} className="App-hat" alt="hat" />
-      <h1>
+      <h1 className="tagline">
           Hats found on the side of the road (dot com)
       </h1>
     </div>
